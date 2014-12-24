@@ -10,7 +10,17 @@ In Sizzle you can do this:
 Sizzle(".foo"); 
 
 ```
-In **Meran** you can't. See the **API** section.
+In **Meran** you can't (*See the **API** section*), but you wan't a Sizzle solution, you can do it like this:
+
+```javascript
+
+// find all element with class "foo"
+
+ var Mehran = Mehran.findAll
+ 
+console.log(Mehran('.foo'));
+
+```
 
 **Note!!** Work in progress!!
 
