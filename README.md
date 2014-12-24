@@ -1,6 +1,8 @@
 Mehran
 ======
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Kflash/Mehran?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Fast, small and lightweight selector engine following the web standards now and tomorrow. It's works allmost the same way as **JQuery** / **Sizzle** with a few exceptions.
 
 In Sizzle you can do this:
