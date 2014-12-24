@@ -10,7 +10,7 @@ In Sizzle you can do this:
 Sizzle(".foo"); 
 
 ```
-In **Meran** you can't (*See the **API** section*), but you wan't a Sizzle solution, you can do it like this:
+In **Meran** you can't (*See the API section*), but you wan't a Sizzle solution, you can do it like this:
 
 ```javascript
 
